@@ -25,7 +25,7 @@ Feature|Type|Description
   <strong>1-Day Retention</strong>
 </div>
 <div id="header" align="center">
-  <img src="https://github.com/Leo06660/Mobile-Games-AB-Testing/blob/main/chart/1-Day%20Retention.png"/>
+  <img src="https://github.com/Leo06660/Mobile-Games-AB-Testing/blob/main/chart/1-Day%20Retention.png?raw=true"/>
 </div>
 <div id="header" align="left">
   <strong>7-Day Retention</strong>
