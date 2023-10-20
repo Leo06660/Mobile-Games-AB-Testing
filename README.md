@@ -1,6 +1,9 @@
 # Mobile-Games-AB-Testing
 <em>This project is also published at [my portfolio website](https://yilichen-leoportfolio-f709a-7d1d9.stackbit.app/blog/Mobile-Games-AB-Testing-with-Cookie-Cats/) </em>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*JzfrTY46fhRNOrM9K6u7OQ.jpeg" height="100" /></a>
+<div id="header" align="left">
+  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*JzfrTY46fhRNOrM9K6u7OQ.jpeg" height="100" /></a>
+</div>
+
 
 ## Project Description
 <p><a href="https://www.facebook.com/cookiecatsgame">Cookie Cats</a> is a hugely popular mobile puzzle game developed by <a href="http://tactile.dk">Tactile Entertainment</a>. It's a classic "connect three"-style puzzle game where the player must connect tiles of the same color to clear the board and win the level. 
